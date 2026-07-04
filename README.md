@@ -16,7 +16,7 @@ To perform network security assessment by identifying live hosts, grabbing servi
 - Nmap
 - Netcat (nc)
 - Shodan
-- OpenVAS (Greenbone)
+- 
 
 ---
 
@@ -216,7 +216,8 @@ Target
 
 Start the vulnerability scan.
 
-📷 **Screenshot:** `Step8_Nessus_Scan.png`
+<img width="1917" height="1021" alt="Screenshot 2026-07-04 231407" src="https://github.com/user-attachments/assets/1c4cffb6-4e2f-4e93-84cf-98c32dd79c40" />
+
 
 ---
 
@@ -233,7 +234,7 @@ Example Vulnerabilities Found
 | Medium | Telnet Service Enabled |
 | Low | ICMP Timestamp Response |
 
-📷 **Screenshot:** `Step9_Nessus_Report.png`
+<img width="1917" height="1021" alt="Screenshot 2026-07-04 232046" src="https://github.com/user-attachments/assets/b815caa1-6d47-4be0-b740-c8b48f702871" />
 
 ---
 
@@ -260,7 +261,7 @@ Recommendation
 - Disable anonymous login
 - Use SFTP instead of FTP
 
-📷 **Screenshot:** `Step10_FTP_Vulnerability.png`
+<img width="1912" height="1017" alt="Screenshot 2026-07-04 232555" src="https://github.com/user-attachments/assets/4bb4c198-bbd4-49b1-a85d-a908c73e7c92" />
 
 ---
 
